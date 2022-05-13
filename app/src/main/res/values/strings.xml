@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeCalculator</string>
+    <string name="use_description">Enter a time value in a field bellow. Time format: HOUR.MINUTE (For example: 2.45 or 0.25).\nPress an add button to add a time value in result field.\nPress reset button to clear a result field.\nPress a save button to save a result.</string>
+    <string name="et_hint">Time value like: 1.25</string>
+    <string name="add_button">Add</string>
+    <string name="reset_button">Reset</string>
+    <string name="save_button">Save</string>
+    <string name="result">Result: %.2f</string>
+    <string name="saved_result">Saved result: %.2f</string>
+</resources>
